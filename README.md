@@ -17,7 +17,6 @@
 python demo.py
 ```
 
-### Code Demo
-```bash
-python demo.py
-```
+### Pretrained Model
+[MTD & CLIP module weights](https://drive.google.com/drive/u/0/folders/1AZK4dWNfBO1QhC3HYdJLm5Th_J59wyrD)
+
