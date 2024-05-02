@@ -14,7 +14,7 @@
 
 ### Code Demo
 ```bash
-python demo.py
+python demo.py --text_query "Can you give me something to drink?"
 ```
 
 ### Pretrained Model
