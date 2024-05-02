@@ -18,5 +18,5 @@ python demo.py --text_query "Can you give me something to drink?"
 ```
 
 ### Pretrained Model
-[MTD & CLIP module weights](https://drive.google.com/drive/u/0/folders/1AZK4dWNfBO1QhC3HYdJLm5Th_J59wyrD)
+[download](https://drive.google.com/drive/u/0/folders/1AZK4dWNfBO1QhC3HYdJLm5Th_J59wyrD)
 
