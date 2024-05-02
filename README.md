@@ -12,11 +12,11 @@
 3. install required package  
 `pip install -r requirements.txt`
 
-### Code Demo
+## Code Demo
 ```bash
 python demo.py --text_query "Can you give me something to drink?"
 ```
 
-### Pretrained Model
+## Pretrained Model
 [download](https://drive.google.com/drive/u/0/folders/1AZK4dWNfBO1QhC3HYdJLm5Th_J59wyrD)
 
