@@ -1,0 +1,5 @@
+tqdm
+shapely
+matplotlib==3.6.3
+ftfy
+git+https://github.com/openai/CLIP.git
